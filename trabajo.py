@@ -4,7 +4,6 @@ import os
 import io 
 import sys
 from webbrowser import get
-import matplotlib.pyplot as plt
 import chart_studio.plotly as py
 import cufflinks
 import folium
