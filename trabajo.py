@@ -4,8 +4,9 @@ import os
 import io 
 import sys
 from webbrowser import get
-#import chart_studio.plotly as py
-#import cufflinks
+import matplotlib.pyplot as plt
+import chart_studio.plotly as py
+import cufflinks
 import folium
 import numpy as np
 import pandas as pd
